@@ -130,9 +130,10 @@ I treat AI as an implementation collaborator rather than a substitute for produc
 ## Elsewhere
 
 - [Portfolio](https://kaziahmed.net/)
-- [GitHub](https://github.com/pixelsncodes)
+- [LinkedIn](https://www.linkedin.com/in/kazisahmed/)
 - [Suno](https://suno.com/@1z4k)
 - [YouTube](https://www.youtube.com/@kaziahmed)
 - [Instagram](https://www.instagram.com/kaziahmedmedia/)
+- [Reddit](https://www.reddit.com/user/Time-Ad-7720/)
 
 Based in Metro Vancouver, Canada.
