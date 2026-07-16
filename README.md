@@ -132,7 +132,7 @@ I treat AI as an implementation collaborator rather than a substitute for produc
 - [Portfolio](https://kaziahmed.net/)
 - [GitHub](https://github.com/pixelsncodes)
 - [Suno](https://suno.com/@1z4k)
-- [Instagram](https://www.instagram.com/izakmakesmusic/)
-- [TikTok](https://www.tiktok.com/@izakmakesmusic)
+- [YouTube](https://www.youtube.com/@kaziahmed)
+- [Instagram](https://www.instagram.com/kaziahmedmedia/)
 
 Based in Metro Vancouver, Canada.
